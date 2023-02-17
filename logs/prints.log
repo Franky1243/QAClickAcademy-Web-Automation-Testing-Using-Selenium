@@ -1,0 +1,7 @@
+01:38:21.423 [main] INFO  resources.Base - Successfully landed to the homepage
+01:38:24.629 [main] INFO  resources.Base - Condition matched
+01:38:40.685 [main] INFO  resources.Base - Successfully closed the browser
+01:38:41.166 [main] INFO  resources.Base - Browser is initialized
+01:38:46.117 [main] INFO  resources.Base - Successfully landed to homepage
+01:38:51.897 [main] INFO  resources.Base - Info matched
+01:38:59.952 [main] INFO  resources.Base - Successfully closed the browser

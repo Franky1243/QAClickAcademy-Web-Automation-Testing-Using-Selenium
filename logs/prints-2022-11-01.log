@@ -1,0 +1,13 @@
+02:41:31.368 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x76b86b872afcc7a4
+02:41:31.401 [main] INFO  resources.Base - successfully invoked the browser
+02:41:35.474 [main] INFO  resources.Base - Successfully landed to the homepage
+02:41:36.371 [main] INFO  resources.Base - Successfully clicked on sign in page
+02:41:36.415 [main] INFO  resources.Base - Successfully passed the username
+02:41:36.448 [main] INFO  resources.Base - Successfully passed the password
+02:41:36.617 [main] INFO  resources.Base - Successfully clicked on login button
+02:41:52.683 [main] INFO  resources.Base - Successfully closed the browser
+02:41:53.184 [main] INFO  resources.Base - successfully invoked the browser
+02:41:56.488 [main] INFO  resources.Base - Successfully landed to the homepage
+02:41:56.506 [main] INFO  resources.Base - Condition matched
+02:42:12.568 [main] INFO  resources.Base - Successfully closed the browser
+02:42:13.055 [main] INFO  resources.Base - Successfully invoked the browser

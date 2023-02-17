@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-08T01:37:35 BDT" name="Suite" finished-at="2022-11-08T01:38:59 BDT" duration-ms="83956">
+    <groups>
+    </groups>
+    <test started-at="2022-11-08T01:37:35 BDT" name="HomepageTest" finished-at="2022-11-08T01:38:05 BDT" duration-ms="29334">
+      <class name="Academy.Homepage">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Academy.Homepage@6e35bc3d]" started-at="2022-11-08T01:37:36 BDT" name="initialize" finished-at="2022-11-08T01:37:41 BDT" duration-ms="5879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="LoginWithDataProviderData(java.lang.String,java.lang.String)[pri:0, instance:Academy.Homepage@6e35bc3d]" started-at="2022-11-08T01:37:41 BDT" name="LoginWithDataProviderData" data-provider="getData" finished-at="2022-11-08T01:37:49 BDT" duration-ms="7376" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[restricteduser@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[134553443]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithDataProviderData -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Academy.Homepage@6e35bc3d]" started-at="2022-11-08T01:37:49 BDT" name="closeBrowser" finished-at="2022-11-08T01:38:05 BDT" duration-ms="16062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Academy.Homepage -->
+    </test> <!-- HomepageTest -->
+    <test started-at="2022-11-08T01:38:05 BDT" name="PageValidation" finished-at="2022-11-08T01:38:15 BDT" duration-ms="10002">
+      <class name="Academy.pageValidation">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Academy.pageValidation@5f9678e1]" started-at="2022-11-08T01:38:05 BDT" name="initialize" finished-at="2022-11-08T01:38:11 BDT" duration-ms="6512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="PageValidations()[pri:0, instance:Academy.pageValidation@5f9678e1]" started-at="2022-11-08T01:38:11 BDT" name="PageValidations" finished-at="2022-11-08T01:38:15 BDT" duration-ms="3417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PageValidations -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Academy.pageValidation@5f9678e1]" started-at="2022-11-08T01:38:15 BDT" name="closeBrowser" finished-at="2022-11-08T01:38:15 BDT" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Academy.pageValidation -->
+    </test> <!-- PageValidation -->
+    <test started-at="2022-11-08T01:38:15 BDT" name="NavBarValidation" finished-at="2022-11-08T01:38:40 BDT" duration-ms="25338">
+      <class name="Academy.NavBarValidation">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Academy.NavBarValidation@5ccbeb64]" started-at="2022-11-08T01:38:15 BDT" name="initialize" finished-at="2022-11-08T01:38:21 BDT" duration-ms="6077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="NavBarChecking()[pri:0, instance:Academy.NavBarValidation@5ccbeb64]" started-at="2022-11-08T01:38:21 BDT" name="NavBarChecking" finished-at="2022-11-08T01:38:24 BDT" duration-ms="3205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavBarChecking -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Academy.NavBarValidation@5ccbeb64]" started-at="2022-11-08T01:38:24 BDT" name="closeBrowser" finished-at="2022-11-08T01:38:40 BDT" duration-ms="16056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Academy.NavBarValidation -->
+    </test> <!-- NavBarValidation -->
+    <test started-at="2022-11-08T01:38:40 BDT" name="titleValidation" finished-at="2022-11-08T01:38:59 BDT" duration-ms="19265">
+      <class name="Academy.titleValidation">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Academy.titleValidation@542e560f]" started-at="2022-11-08T01:38:40 BDT" name="initialize" finished-at="2022-11-08T01:38:46 BDT" duration-ms="5429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="TitleValidations()[pri:0, instance:Academy.titleValidation@542e560f]" started-at="2022-11-08T01:38:46 BDT" name="TitleValidations" finished-at="2022-11-08T01:38:51 BDT" duration-ms="5780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitleValidations -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Academy.titleValidation@542e560f]" started-at="2022-11-08T01:38:51 BDT" name="closeBrowser" finished-at="2022-11-08T01:38:59 BDT" duration-ms="8055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Academy.titleValidation -->
+    </test> <!-- titleValidation -->
+  </suite> <!-- Suite -->
+</testng-results>
